@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>nopropbind.qml</file>
+        <file>propbindb.qml</file>
+        <file>propbind.qml</file>
+        <file>propbindo.qml</file>
+        <file>propbindl.qml</file>
+        <file>ex.qml</file>
+    </qresource>
+</RCC>
